@@ -36,7 +36,9 @@ Go to the "Bot" tab on the left side of the screen. Click on "Reset Token" and t
 ## __Installation__
 
 ### __Bot usage__
-Launch the script file on the script folder and follow the instructions. if your installation has finised, this script will generate a link that you can use to invite the bot to your server. Now you need to execute the command /claimbadge in the text channel of your new community server. Wait approximately 24 hours for claim the badge [here](https://discord.com/developers/active-developer).
+Launch the script file on the script folder and follow the instructions. if your installation has finised, this script will generate a link that you can use to invite the bot to your server. Now you need to execute the command /claimbadge in the text channel of your new community server. Wait approximately 24 hours for claim the badge [here](https://discord.com/developers/active-developer). 
+
+*__Note:__ You must re-execute at least one slash command per month, otherwise you automatically lose the badge.*
 
 ![](assets/bot-command.gif)
 
