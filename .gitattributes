@@ -2,5 +2,3 @@
 *.sh linguist-language=Shell
 *.bat linguist-language=Batchfile
 Dockerfile linguist-language=Dockerfile
-Gemfile linguist-language=Gemfile
-compose.yaml linguist-language=Yaml
