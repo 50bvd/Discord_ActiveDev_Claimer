@@ -3,7 +3,7 @@
 
 This is a simple script that will claim the active devlopper badge on discord 
 
-__Download zip file [here](https://github.com/50bvd/Discord_ActiveDev_Claimer/releases/tag/release)__
+__Download rar/tar file [here](https://github.com/50bvd/Discord_ActiveDev_Claimer/releases/tag/release)__
 
 Officiel discord thread about claiming badge [here](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge#70ebf968-173e-4ffb-86d5-2e417eeb20a4).
 
