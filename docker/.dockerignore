@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Environment
+.env
+.env.*
+
+# Assets
+assets/
+
+# Development
+*.md
+LICENSE
+tests/
+spec/
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Ruby
+*.gem
+*.rbc
+/coverage/
+/tmp/
+/.bundle/
+/vendor/bundle/

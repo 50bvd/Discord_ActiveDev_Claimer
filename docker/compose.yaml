@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  discord-bot:
+    build:
+      context: ..  
+      dockerfile: docker/Dockerfile
+    environment:
+      - DISCORD_TOKEN=${DISCORD_TOKEN}
+    restart: unless-stopped
+    volumes:
+      - ./src:/app/src  
